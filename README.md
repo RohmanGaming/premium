@@ -11,5 +11,5 @@ git clone https://github.com/Rohmangaming/premium
 cd premium 
 ls
 git pull
-python anisa2.py
+python free.py
 """
